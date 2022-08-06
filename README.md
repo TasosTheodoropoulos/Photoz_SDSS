@@ -20,3 +20,6 @@ Pasquet, J., Bertin, E., Treyer, M., Arnouts, S., & Fouchez, D. (2019). Photomet
 Dey, B., Andrews, B. H., Newman, J. A., Mao, Y. Y., Rau, M. M., & Zhou, R. (2021). Photometric Redshifts from SDSS Images with an Interpretable Deep Capsule Network. arXiv preprint arXiv:2112.03939.
 
 Salvato, M., Ilbert, O., & Hoyle, B. (2019). The many flavours of photometric redshifts. Nature Astronomy, 3(3), 212-222.
+
+https://biprateep.de/encapZulate-1/ Useful website with code and link to the dataset used.
+
