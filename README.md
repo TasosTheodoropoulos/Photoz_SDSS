@@ -16,5 +16,7 @@ Prof. Simona Mei
 
 ## Useful References
 Pasquet, J., Bertin, E., Treyer, M., Arnouts, S., & Fouchez, D. (2019). Photometric redshifts from SDSS images using a convolutional neural network. Astronomy & Astrophysics, 621, A26.
+
 Dey, B., Andrews, B. H., Newman, J. A., Mao, Y. Y., Rau, M. M., & Zhou, R. (2021). Photometric Redshifts from SDSS Images with an Interpretable Deep Capsule Network. arXiv preprint arXiv:2112.03939.
+
 Salvato, M., Ilbert, O., & Hoyle, B. (2019). The many flavours of photometric redshifts. Nature Astronomy, 3(3), 212-222.
